@@ -1,0 +1,59 @@
+#wrapped+.input-group-addon {
+    margin: 0;
+    padding: 0;
+    min-width: 8rem;
+    border: none;
+}
+#wrapped+.input-group-addon>.form-control {
+    border-radius: 0 .4rem .4rem 0;
+    border-left: none;
+}
+
+.form-customize {
+    padding: 14px;
+    border: 1px solid #F7F8FA;
+    border-radius: 19px;
+}
+
+.margin-label {
+    margin-bottom: 15px !important;
+}
+
+.padding-custom {
+    display: block;
+    margin: 30px 20px;
+}
+
+.form-control-custom {
+    font-weight: bold;
+    font-size: 20px;
+    color: #000 !important;
+}
+
+.form-control-green {
+    background-color: #4CA137;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 10px !important;
+}
+
+.form-control-green:focus {
+    background-color: #4CA137;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 10px !important;
+}
+
+.btn-custom {
+    width: 92%;
+    margin: 30px auto;
+    padding: 30px;
+    border-radius: 12px;
+    display: flex;
+}
+
+@media (min-width:776px) {
+    .display-sm {
+        display: none;
+    }
+}

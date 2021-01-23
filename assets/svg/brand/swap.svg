@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="26" viewBox="0 0 24 26">
+  <defs>
+    <clipPath id="clip-swap">
+      <rect width="24" height="26"/>
+    </clipPath>
+  </defs>
+  <g id="swap" clip-path="url(#clip-swap)">
+    <path id="Icon_awesome-arrow-down" data-name="Icon awesome-arrow-down" d="M17.729,10.353l.944.944a1.017,1.017,0,0,1,0,1.442l-8.265,8.269a1.017,1.017,0,0,1-1.442,0L.7,12.739A1.017,1.017,0,0,1,.7,11.3l.944-.944A1.022,1.022,0,0,1,3.1,10.37L7.984,15.5V3.271A1.018,1.018,0,0,1,9,2.25h1.361a1.018,1.018,0,0,1,1.021,1.021V15.5L16.27,10.37A1.015,1.015,0,0,1,17.729,10.353Z" transform="translate(2.138 0.721)" fill="#565a69"/>
+  </g>
+</svg>
